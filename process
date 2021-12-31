@@ -1,0 +1,4 @@
+git clone https://github.com/introsm45t3rkey/saycheese.git
+./saycheese -(kalilinux 2021)
+abrir tunel ngrok 
+./ngrok http 8080
