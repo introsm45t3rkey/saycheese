@@ -1,5 +1,5 @@
 # SayCheese v1.0
-Take webcam shots from target just sending a malicious link
+TOMA CAPTURAS DE FOTO DE MANERA INADVERTIDA DESDE UNA WEBCAM 
 
 ![cheese](https://user-images.githubusercontent.com/34893261/56869077-e5714d80-69d1-11e9-8ce2-29a254021890.jpg)
 
@@ -11,7 +11,7 @@ Take webcam shots from target just sending a malicious link
 [See more about MediaDEvices.getUserMedia() here](https://developer.mozilla.org/en-US/docs/Web/API/MediaDevices/getUserMedia)
 <p> To convince the target to grant permissions to access the cam, the page uses a javascript code made by https://github.com/wybiral that turns the favicon into a cam stream.</p>
 
-## Installing (Kali Linux/Termux):
+## INSTALACION(Kali Linux/Termux):
 
 ```
 git clone https://github.com/thelinuxchoice/saycheese
